@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "670633954890",
+    "firebase_url": "https://ordertrackpro-aaf9f-default-rtdb.firebaseio.com",
+    "project_id": "ordertrackpro-aaf9f",
+    "storage_bucket": "ordertrackpro-aaf9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670633954890:android:2611dc6db6f4d11e5120b3",
+        "android_client_info": {
+          "package_name": "com.example.ordertrackpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs7YGzDNKa2lcvf8pPFsznicmAmQ-IXcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670633954890:android:583e52588bfc57d15120b3",
+        "android_client_info": {
+          "package_name": "com.example.ordertrackproadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs7YGzDNKa2lcvf8pPFsznicmAmQ-IXcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
