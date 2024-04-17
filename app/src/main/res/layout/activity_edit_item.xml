@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.view.EditItemActivity"
+    android:background="@color/white"
     >
     <LinearLayout
         android:layout_width="match_parent"
@@ -26,13 +27,14 @@
 
             </com.google.android.material.appbar.MaterialToolbar>
         </com.google.android.material.appbar.AppBarLayout>
+
         <ImageView
             android:id="@+id/foodImage"
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:src="@mipmap/ic_launcher"
             android:contentDescription="@string/banner"
-            />
+            android:src="@mipmap/ic_launcher" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

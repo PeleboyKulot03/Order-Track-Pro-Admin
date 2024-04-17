@@ -16,7 +16,7 @@
         <com.google.android.material.appbar.MaterialToolbar
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:title="Edit Meals"
+            app:title="Add New User"
             android:background="@color/primary"
             app:titleTextColor="@color/white"
             app:titleMarginStart="20dp"
